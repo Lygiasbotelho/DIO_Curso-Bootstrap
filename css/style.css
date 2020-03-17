@@ -1,0 +1,32 @@
+body{
+    font: 18px Arial, sans-serif;
+}
+.navbar{
+   /* background-color: #0B6138;*/
+}
+.quemsomos{
+    background-color: #CEF6CE;
+
+}
+.margin{
+    padding: 20px 0 50px;
+}
+.parceiros{
+    background-color: teal;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#a1{width:200px;background-color: #0B6138;}
+        
+#a2{width:400px;background-color: #0B6138; }
+
+#a3{width:500px;background-color: #0B6138;}
+
+#a4{width:700px;background-color: #0B6138;}
+
+.metade{width:50%;border: 1px solid #CEF6CE;}
